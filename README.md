@@ -54,5 +54,5 @@ The Different tables listed above were modelled as shown below:
 
 ## Analysis and Visualization.
 This is the image of the Dashboard made
-![](0001.jpg)
-![](0002.jpg)
+![](001.jpg)
+![](002.jpg)
