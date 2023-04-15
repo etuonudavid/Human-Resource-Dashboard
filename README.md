@@ -1,6 +1,6 @@
 # Inforiver's Human Resource Dashboard
 
-![](Human Resource.jpg)
+![](HumanResource.jpg)
 
 **FP20 Challenges - April 2023 - Challenge 4**
 
